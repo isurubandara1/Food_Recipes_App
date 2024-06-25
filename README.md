@@ -1,4 +1,7 @@
-# recipe_app
+## This app is contained in the below repository Click here to visit the commit history, build process, and source code. 
+##  https://github.com/isurubandara1/CODSOFT/edit/main/Task3/recipe_app/README.md 
+ 
+# Food Recipes App
 
 A new Flutter project designed to elevate your culinary adventures. With over 500+ searchable recipes categorized by country, this app is your ultimate kitchen companion.
 
@@ -24,5 +27,8 @@ A new Flutter project designed to elevate your culinary adventures. With over 50
 - **Variety**: From appetizers to desserts, discover a wide range of dishes.
 - **Ease of Use**: Simplified search and categorization make finding the perfect recipe straightforward.
 - **Cultural Exploration**: Expand your culinary horizons by exploring dishes from various countries.
+
+### 🔷 Github repo https://github.com/isurubandara1/CODSOFT/edit/main/Task3/recipe_app/README.md
+### 🔷 Linkdin demo https://www.linkedin.com/feed/update/urn:li:activity:7211083495282987010/?originTrackingId=qNzWDW7aQeO6rsX91l8%2Bzg%3D%3D
 
 
