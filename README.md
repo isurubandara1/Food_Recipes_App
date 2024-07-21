@@ -1,5 +1,5 @@
 ## This app is contained in the below repository Click here to visit the commit history, build process, and source code. 
-##  https://github.com/isurubandara1/CODSOFT/edit/main/Task3/recipe_app/README.md 
+##  https://github.com/isurubandara1/CodSoft/tree/main/Task3/recipe_app
  
 # Food Recipes App
 
